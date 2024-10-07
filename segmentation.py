@@ -7,6 +7,7 @@ import ultralytics
 from ultralytics import YOLO
 import matplotlib.pyplot as plt
 # end of dependencies\
+hjdfioejuirbgirhb
 # start of code
 
 image_path = '/Users/ganeshtalluri/PycharmProjects/Luxen BE/images/IMG_0093.PNG'
