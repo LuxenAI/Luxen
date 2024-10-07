@@ -1,11 +1,11 @@
 from ultralytics import YOLO
 from convolution import Convolution
 import numpy as np
-"""
+
 model = YOLO("yolov8n-seg.pt")  # load a pretrained model (recommended for training)
 
 model.train(data="config.yaml", epochs=3, imgsz=640)
-"""
+
 edge_detection_kernel = np.array([
         [-1, -1, -1],
         [0, 0, 0],
