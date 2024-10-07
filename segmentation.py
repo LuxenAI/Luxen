@@ -6,8 +6,7 @@ import tensorflow as tf
 import ultralytics
 from ultralytics import YOLO
 import matplotlib.pyplot as plt
-# end of dependencies
-print("Yayyayayayay it works")
+# end of dependencies\
 # start of code
 
 image_path = '/Users/ganeshtalluri/PycharmProjects/Luxen BE/images/IMG_0093.PNG'
