@@ -69,4 +69,5 @@ class Augment(tf.keras.layers.map.Layer):
       for images, masks in train_batches.take(2):
           sample_image, sample_mask = images[0], masks[0]
           display([sample_image, sample_mask])
-          
+
+
